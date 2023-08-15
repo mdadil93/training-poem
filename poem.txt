@@ -5,4 +5,6 @@ Tuple
 Set
 Dictionary
 
+Arrays
+
 These are the content off training
