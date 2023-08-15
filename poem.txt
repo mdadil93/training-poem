@@ -1,0 +1,8 @@
+Training
+
+List
+Tuple
+Set
+Dictionary
+
+These are the content off training
