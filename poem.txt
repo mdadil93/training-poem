@@ -1,4 +1,4 @@
-Training
+Training & HTML
 
 List
 Tuple
@@ -7,4 +7,7 @@ Dictionary
 
 Arrays
 
-These are the content off training
+ELEMENETS
+ATTRIBUTES
+
+These are the content off training & HTML
