@@ -13,6 +13,6 @@ Heading
 Paragraph
 Style.
 
-Learning Github
+Learning Github.
 
 These are the content off training & HTML & Github
