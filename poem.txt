@@ -9,5 +9,8 @@ Arrays
 
 ELEMENETS
 ATTRIBUTES
+Heading 
+Paragraph
+Style
 
 These are the content off training & HTML
