@@ -11,6 +11,6 @@ ELEMENETS
 ATTRIBUTES
 Heading 
 Paragraph
-Style
+Style.
 
 These are the content off training & HTML
